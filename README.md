@@ -12,6 +12,8 @@ For more information visit:
 
 https://github.com/ChristosSpyropoulos/Erasmusmate
 http://erasmusmates.herokuapp.com
+https://travis-ci.org/vkhac/Erasmusmate
+https://coveralls.io/github/vkhac/Erasmusmate
 ---------------
 
 #Full skill test for a Python Django Developer position.
@@ -21,6 +23,13 @@ Required Skills:
 Python, Django, JavaScript, Python testing, Html
 
 https://github.com/ChristosSpyropoulos/Skill_test_for_Python_Django_developer_position
+---------------
+
+#IBM Watson
+
+This is a demonstrational application that uses IBM's Watson API. The user provides an image url and the the application returns statistic results for the image using machine learning.
+
+http://46.101.202.231/watson/
 ---------------
 
 #Class diary  
