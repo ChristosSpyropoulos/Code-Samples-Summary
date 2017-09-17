@@ -12,7 +12,6 @@ For more information visit:
 
 https://github.com/ChristosSpyropoulos/Erasmusmate
 http://erasmusmates.herokuapp.com
-https://travis-ci.org/vkhac/Erasmusmate
 https://coveralls.io/github/vkhac/Erasmusmate
 ---------------
 
