@@ -1,13 +1,12 @@
-# Code-Samples-Summary
-This is a README repository to summarize code samples in an "easy to read" form. This will Help you navigate to my repositories to save time.
+# Summary
+This is a README repository to summarize code samples in an "easy to read" form. This will Help you navigate to my repositories and save time.
 
 -------------
 
 **#Erasmusmates project**
 
 The "Python in the Enterprise" project.
-We made a full website using Python, Django, Bootstrap, Html, PostgreSQL.
-Full website with user accounts, logging system, database.
+We made a full website using Python, Django, Bootstrap, Html, PostgreSQL with user accounts, logging system, database.
 For more information visit:
 
 https://github.com/ChristosSpyropoulos/Erasmusmate
